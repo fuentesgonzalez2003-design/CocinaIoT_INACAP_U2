@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+.DS_Store
+captures/
+*.jks
+*.keystore
+.kotlin/
+_RESPALDOS_CORRECCION_IOT/
